@@ -1,0 +1,19 @@
+div.timer-marked {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    background-color: gray;
+}
+
+div.timer-not-marked {
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+    background-color: white;
+}
+
+div.bar-timer {
+    font-size: 0px;
+    display: inline-block;
+    border-style: solid;
+}
